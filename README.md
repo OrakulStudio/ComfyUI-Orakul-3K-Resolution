@@ -96,7 +96,7 @@ Orakul3KResolution
 🛠️⚙️ ORAKUL 3K MONOLITH: 3072x3072 🛠️⚙️
 🛠️⚙️ ORAKUL STUDIO 🛠️⚙️
 ```
-
+[terminal](https://github.com/OrakulStudio/ComfyUI-Orakul-3K-Resolution/blob/main/image/terminal.png)
 ---
 
 ## Part of the Orakul Ecosystem / Part of Orakul Ecosystem
