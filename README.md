@@ -60,6 +60,8 @@ Every value tested — the model generates stably, no artifacts, no doubles.*
 *→ Generation time: ~3.5 minutes*
 *→ At 800% zoom: armor fabric, finger pores — zero artifacts*
 
+[2k](https://github.com/OrakulStudio/ComfyUI-Orakul-3K-Resolution/blob/main/image/2k.jpg)
+
 ---
 
 ## Installation
