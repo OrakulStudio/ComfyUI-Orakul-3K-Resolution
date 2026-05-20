@@ -68,6 +68,10 @@ Every value tested — the model generates stably, no artifacts, no doubles.*
 
 <img width="3072" height="3072" alt="3k" src="https://github.com/user-attachments/assets/3934cefc-b45f-45da-be4b-969596660395" />
 
+[zoom](https://github.com/OrakulStudio/ComfyUI-Orakul-3K-Resolution/blob/main/image/800%25.png)
+
+<img width="3839" height="2159" alt="800%" src="https://github.com/user-attachments/assets/ea3a0302-9005-4509-827c-6f565f70f061" />
+
 
 ---
 
