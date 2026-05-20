@@ -62,6 +62,9 @@ Every value tested — the model generates stably, no artifacts, no doubles.*
 
 [2k](https://github.com/OrakulStudio/ComfyUI-Orakul-3K-Resolution/blob/main/image/2k.jpg)
 
+<img width="2752" height="2752" alt="2k" src="https://github.com/user-attachments/assets/8712fcd7-6e53-484c-9ddf-eae8128f5d8e" />
+
+
 ---
 
 ## Installation
