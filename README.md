@@ -97,6 +97,10 @@ Orakul3KResolution
 🛠️⚙️ ORAKUL STUDIO 🛠️⚙️
 ```
 [terminal](https://github.com/OrakulStudio/ComfyUI-Orakul-3K-Resolution/blob/main/image/terminal.png)
+
+<img width="3839" height="2129" alt="terminal" src="https://github.com/user-attachments/assets/d5d26f5e-2a4f-408a-a07c-975a7501bfd0" />
+
+
 ---
 
 ## Part of the Orakul Ecosystem / Part of Orakul Ecosystem
