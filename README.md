@@ -12,7 +12,7 @@
 
 ## Why Presets, Not Math
 
-The previous version of the node calculated resolution mathematically—the same area for all formats. This caused glitches: with vertical formats, the long side tended to values ​​​​outside the Flux2 comfort zone, and the model began to break.
+The previous version of the node calculated resolution mathematically the same area for all formats. This caused glitches: with vertical formats, the long side tended to values ​​​​outside the Flux2 comfort zone, and the model began to break.
 *The previous version calculated resolution mathematically  equal area for all formats. This caused artifacts: vertical formats pushed the long side beyond Flux2's comfortable generation zone, causing the model to break.*
 
 **Solution:** Experimental selection of presets at **10 steps**.
