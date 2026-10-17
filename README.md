@@ -85,8 +85,9 @@ Every value tested  the model generates stably, no artifacts, no doubles.*
 cd ComfyUI/custom_nodes
 git clone https://github.com/OrakulStudio/ComfyUI-Orakul-3K-Resolution
 ```
+[comfy node install ComfyUI-Orakul-3K-Resolution](https://registry.comfy.org/ru/publishers/orakul-studio/nodes/ComfyUI-Orakul-3K-Resolution)
 
-Restart ComfyUI. Node: Category **`Oracle`**, Name **`🎞️⚙️Orakul3KResolution`**
+Restart ComfyUI. Node: Category **`Orakul`**, Name **`🎞️⚙️Orakul3KResolution`**
 
 ---
 
