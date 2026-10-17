@@ -6,7 +6,7 @@
 >Found experimentally. Tested in 10 steps..
 >Discovered experimentally. Verified at 10 steps.
 
-*Protocol Oracle-60 · Orakul Studio · Chernihiv, Ukraine 🇺🇦*
+*Protocol Orakul-60 · Orakul Studio · Chernihiv, Ukraine 🇺🇦*
 
 ---
 
