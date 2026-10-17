@@ -1,7 +1,7 @@
 # ComfyUI-Orakul-3K-Resolution
 
-**A node of 3K+ precise presets for ComfyUI — no math, no glitches**
-**Exact 3K+ presets for ComfyUI - no math, no artifacts**
+**A node of 3K+ precise presets for ComfyUI  no math, no glitches**
+**Exact 3K+ presets for ComfyUI  no math, no artifacts**
 
 >Found experimentally. Tested in 10 steps..
 >Discovered experimentally. Verified at 10 steps.
@@ -13,15 +13,15 @@
 ## Why Presets, Not Math
 
 The previous version of the node calculated resolution mathematically—the same area for all formats. This caused glitches: with vertical formats, the long side tended to values ​​​​outside the Flux2 comfort zone, and the model began to break.
-*The previous version calculated resolution mathematically — equal area for all formats. This caused artifacts: vertical formats pushed the long side beyond Flux2's comfortable generation zone, causing the model to break.*
+*The previous version calculated resolution mathematically  equal area for all formats. This caused artifacts: vertical formats pushed the long side beyond Flux2's comfortable generation zone, causing the model to break.*
 
 **Solution:** Experimental selection of presets at **10 steps**.
 
-Every value tested — the model generates stably, without artifacts, without doubles.
+Every value tested  the model generates stably, without artifacts, without doubles.
 
 *Solution: Experimental preset selection at **10 steps**.
 
-Every value tested — the model generates stably, no artifacts, no doubles.*
+Every value tested  the model generates stably, no artifacts, no doubles.*
 
 ---
 
